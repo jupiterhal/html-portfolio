@@ -1,2 +1,2 @@
 # html-portfolio
-super simple html website.
+projects from web development course by angela-yu.
